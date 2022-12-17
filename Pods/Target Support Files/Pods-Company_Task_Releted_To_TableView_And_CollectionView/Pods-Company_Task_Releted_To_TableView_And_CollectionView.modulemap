@@ -1,0 +1,6 @@
+framework module Pods_Company_Task_Releted_To_TableView_And_CollectionView {
+  umbrella header "Pods-Company_Task_Releted_To_TableView_And_CollectionView-umbrella.h"
+
+  export *
+  module * { export * }
+}

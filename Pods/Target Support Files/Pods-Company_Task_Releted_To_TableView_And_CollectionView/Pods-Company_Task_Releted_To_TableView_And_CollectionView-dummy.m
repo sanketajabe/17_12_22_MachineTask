@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_Company_Task_Releted_To_TableView_And_CollectionView : NSObject
+@end
+@implementation PodsDummy_Pods_Company_Task_Releted_To_TableView_And_CollectionView
+@end
